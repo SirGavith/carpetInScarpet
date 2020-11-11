@@ -1,3 +1,72 @@
 # carpetInScarpet
  
 I'm working on porting as many carpet mod features to scripts, and you found the repo
+Plus carpet addon mods too
+
+### Scripts:
+Highlighted ones are done
+
+carpets
+chainStone?
+combineXPOrbs
+commandDistance
+commandDraw
+commandInfo
+commandPerimeterInfo
+commandProfile?
+commandTrackAI
+desertShrubs
+explosionNoBlockDamage?
+flippinCactus
+hopperCounters
+missingTools
+`onePlayerSleeping`
+persistentParrots?
+renewableBlackstone
+renewableCoral
+renewableSponges
+rotatorBlock
+silverFishDropGravel
+stackableShulkerBoxes?
+xpNoCooldown
+
+autoCraftingDropper?
+chickenShearing
+comparatorReadsClock?
+dispenserPlacesBlocks
+dispensersFeedAnimals
+dispensersFillMinecarts
+dispensersMilkCows
+dispensersPlayRecords
+dispensersTillSoil
+dispensersToggleThings
+dragonEggBedrockBreaking?
+dragonsBreathConvertsCobbleToEndstone
+fireChargeConvertsToNetherrack
+flowerPotChunkLoading
+hopperMinecartItemTransfer
+mobInFireConvertsSandToSoulsand
+renewableLava
+renewablePackedIce
+renewableSand
+renewableWitherSkeletons
+variableWoodDelays?
+
+fakePlayerNamePrefix
+fakePlayerNameSuffix
+renewableDragonEgg
+dispensersFireDragonBreath
+renewableDragonHead
+
+instantPotions
+stackingPotions?
+oldFlintAndSteelBehavior
+
+creeperBlockDamage?
+deathItemsDespawnMinutes?
+ghastBlockDamage?
+mobsDropNametag
+noRepairCost
+renewableDragonEgg
+slimeLooting
+
